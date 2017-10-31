@@ -1,6 +1,6 @@
 # c-cpp-basics
 
-## Contains simple C and C++ programs
+### Contains simple C and C++ programs
 
 * **Level 1 - C basics**
 	1. Very basic stuff
