@@ -5,24 +5,20 @@
 * **Level 1 - C basics**
 	1. Very basic stuff
 	2. Decisions, loops and patterns
-	3. Implementing mathematics
+	3. Mathematics
 	4. Strings
-	5. Modular approach
+	5. Functions
 	6. File handling
-	7. Exception handling
 
-* **Level 2 - Simple data structures in c**
-	1. Arrays
-	2. Linked Lists
-	3. Stacks & Queues
-	4. Trees & graphs
+* **Level 2 - Miscellaneous programs in C**
+	1. Arrays - Searching and Sorting
 
 * **Level 3 - C++ basics**
 	1. Very basic stuff
 	2. Decisions, loops and patterns
 	3. Implementing mathematics
 	4. Strings
-	5. Modular approach
+	5. Functions
 	6. File handling
 	7. Exception handling
 
