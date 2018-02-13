@@ -1,29 +1,18 @@
-# c-cpp-basics
+# c-programming
 
-### Contains simple C and C++ programs
+### Collection of c programs
 
-* **Level 1 - C basics**
-	1. Very basic stuff
-	2. Decisions, loops and patterns
-	3. Mathematics
-	4. Strings
-	5. Functions
-	6. File handling
+1. **Level 1 - Basics**
+	(ITPL course, 1st semester)
+	(conditions, loops, pointers, functions, recursion, structures)
 
-* **Level 2 - Miscellaneous programs in C**
-	1. Arrays - Searching and Sorting
-	2. UCA Questions
+2. **Level 2 - Problem Solving Techniques in C**
+	(PSTC course, 3rd semester)
 
-* **Level 3 - C++ basics**
-	1. Very basic stuff
-	2. Decisions, loops and patterns
-	3. Implementing mathematics
-	4. Strings
-	5. Functions
-	6. File handling
-	7. Exception handling
-	8. UCA Questions
+3. **Level 3 - Data Structures**
+	(DS course, 5th semester)
+	(Arrays, searching, sorting, linked lists, trees, grpahs etc)
 
-* **Level 4 - OOP using C++**
-	1. Classes
-	2. Standard template library
+4. **Level 4 - Advanced Programming Concepts**
+	(APC course, 6th semester)
+	(loops, pointers, functions, arrays, matrices, strings)
